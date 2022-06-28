@@ -1,5 +1,4 @@
-# Python-Scripts
-Some small below average python scripts
+Below average password generator script in python
 
 
 
